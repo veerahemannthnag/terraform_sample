@@ -1,0 +1,1 @@
+machine_type = "n1-standard-2"
